@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+  font-family: Helvetica;
+  font-size: 12pt;
+}
+
+
+
+
+/* Headers */
+h1{
+  font-size: 22pt;
+}
+
+h2{
+  font-size: 18pt;
+}
+
+h3{
+  font-size: 16pt;
+}
+
+p{
+  font-size: 12pt;
+}
+
+.label {
+    border-radius: 1px; 
+    padding: 0.1em 2px; 
+    font-size: 10px; 
+    display: inline-block!important; 
+    vertical-align: text-top!important;
+    margin: 0 auto;
+    display: block;
+}
+
+.label_submit {
+    background-color: #fbca04;
+}
+
+.label_revision {
+    background-color: #9ad02b;
+}
+
+.label_accept {
+    background-color: #39d651;
+}
