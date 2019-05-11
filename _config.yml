@@ -47,7 +47,7 @@ theme: minima
 
 header_pages:
 - index.md
-- publications.md
-- research.md
-- teaching.md
-- presentations.md
+#- publications.md
+#- research.md
+#- teaching.md
+#- presentations.md
