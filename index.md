@@ -9,3 +9,5 @@ title: HOME
 This is only a test. 
 
 Relative link test: <a href="/_research/test.md" target="blank">See more.</a>
+
+[See more](https://github.com/mapn/mapn.github.io/_research/test.md)
