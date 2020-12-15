@@ -8,4 +8,4 @@ title: HOME
 
 This is only a test. 
 
-Relative link test: <a href="https://pulongma.github.io/_research/test.md" target="blank">See more.</a>
+Relative link test: <a href="/_research/test.md" target="blank">See more.</a>
