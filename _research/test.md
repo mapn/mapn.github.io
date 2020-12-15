@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title:  "Research"
+title:  "HOME"
 mathjax: true
 categories: jekyll update
 ---
